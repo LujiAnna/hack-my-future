@@ -1,0 +1,31 @@
+Q1: On this week (2. Incremental Development) Exercise 1:  html-css-git-exercises: week-2 repo 
+
+ https://github.com/LujiAnna/html-css-git-exercises/tree/master/week-2
+
+ Am trying to do exercise 18-git-merge 
+  I did 
+  $ git checkout -b orange_links
+  When I was on that branch, I changed the links to orange
+  I also did 
+  $ git commit -am 'orangered links'
+  Then this
+  $ git push -u origin orange_links
+  My problem is : I do not see the yellow bar .
+  I see this instead on the picture 
+  What could the problem be ?
+
+  Q2 : When am in new branch and do `$ git merge master`, I get the below message.
+  I do not understand it or what to do with it or how to proceeed or 
+  which commands to use , so i quit using `:qa` . Nothing is still merged yet, as the master branch is still not up to per with my local changes
+
+  Should I merge from master, and merge branch from there, or what should I do?
+ ` 
+Merge branch 'master' into navigation
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+~      `       
+
+

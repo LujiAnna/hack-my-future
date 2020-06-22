@@ -1,0 +1,22 @@
+Wed 27 May 2020
+
+Question: ...
+
+Folder path: HYF/02-incremental-development/week\ 2
+
+1. I did git clone to the team-workflow Repo  `git clone https://github.com/gelilaa/team-workflow.git`
+Note: on my folder directory on the left : I can't see the repo on my folder tree
+
+2. Listing to see if repo is there  `ls`
+Note: team-workflow repo is listed on bash, BUT I still cant see it on the left folder tree
+
+3. I moved into the repo  `cd team-workflow\` and `ls`
+Note: Everyfile is listed from the repo 
+
+open index.html // this one ran it on browser
+open -a "visual studio code" index.html // this one did the magic and opened a new vsc window having the index.html
+open -a "visual studio code" CSS/style.css //this opened a style.css file which was inside folder CSS
+mkdir img // create img folder
+cp -R ../../../week\ 1/acme-web-design/img/* .  //copy folder with images from another image folder to the current image folder am in
+ls -l img/  //check whats inside the folder 
+I had to also $cd img and $cd .. (to move in and out of the directory)
