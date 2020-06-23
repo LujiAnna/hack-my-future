@@ -16,7 +16,7 @@
 
 ## All of My Projects
 
-### [Working with Code](https://github.com/LujiAnna/precourse)
+### [Working with Code](https://home.hackyourfuture.be/curriculum/precourse)
 
 - [Markdown Home Page](https://lujianna.github.io)
 - [My bio on the class repo](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/LujiAnna.md)
@@ -32,7 +32,7 @@
 
 #### Week 2
 
-- [HTML5/CSS3 Website](https://lujianna.github.io/app-theme/)
+- [HTML5/CSS3/FlexBoxGrid Website](https://lujianna.github.io/app-theme/)
 - [Collaboration](https://lujianna.github.io/team/)
 - [Website collaborative project- 2 people](https://gelilaa.github.io/team-workflow/)
 
@@ -66,7 +66,7 @@
 
 ### Frontend Frameworks
 
-### 
+### Agile Development
 ---
 
  __[Thank you for all that I have learned & continue to learn](https://github.com/users/LujiAnna/projects/1)__ 
