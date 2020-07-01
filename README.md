@@ -1,4 +1,4 @@
-# Hack My Future
+# [Hack My Future](https://home.hackyourfuture.be/curriculum)
 
 > A repository to organize my studying notes and study board.
 > Table of contents for all of the exercises and projects you push to GitHub. 
@@ -38,17 +38,17 @@
 
 #### Week 3
 
-- [Website collaborative project- 3 people](https://aame1.github.io/duck-duck-gone/)
+- [Website collaborative project- Abdul, Mohammed, Anna](https://aame1.github.io/duck-duck-gone/)
 
 ### Debugging
 
 #### Week 1
 
-- [Debugging collaborative project- 4 people](https://pavelbidenko2018.github.io/debugging-project-week-1/)
+- [Debugging collaborative project- Pavel, Gelila, Fatih, Anna](https://pavelbidenko2018.github.io/debugging-project-week-1/)
 
 #### Week 2
 
-- [Debugging collaborative project- 5 people]()
+- [prompt-alert-calculate - 4 people: Pavel, Gelila, Fatih, Anna](https://gelilaa.github.io/prompt-alert-calculate/index.html)
 
 ### Testing
 
@@ -69,10 +69,11 @@
 ### Agile Development
 ---
 
- __[Thank you for all that I have learned & continue to learn](https://github.com/users/LujiAnna/projects/1)__ 
+ __[Learnables](https://github.com/users/LujiAnna/projects/1)__ 
 
 - [Hack My Future](https://lujianna.github.io/hack-my-future/)
-- [Licence](LICENSE.md)
 - [Hack Your Future](https://github.com/HackYourFutureBelgium)
+- [Licence](LICENSE.md)
+
 
 * * * * * * * * * * [Go Top](./README.md)
