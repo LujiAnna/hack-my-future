@@ -34,7 +34,7 @@
 
 - [HTML5/CSS3/FlexBoxGrid Website](https://lujianna.github.io/app-theme/)
 - [Collaboration](https://lujianna.github.io/team/)
-- [Website collaborative project- 2 people](https://gelilaa.github.io/team-workflow/)
+- [Website collaborative project- Gelila, Anna](https://gelilaa.github.io/team-workflow/)
 
 #### Week 3
 
@@ -48,7 +48,7 @@
 
 #### Week 2
 
-- [prompt-alert-calculate - 4 people: Pavel, Gelila, Fatih, Anna](https://gelilaa.github.io/prompt-alert-calculate/index.html)
+- [prompt-alert-calculate - Pavel, Gelila, Fatih, Anna](https://gelilaa.github.io/prompt-alert-calculate/index.html)
 
 ### Testing
 
