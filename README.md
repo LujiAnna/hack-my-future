@@ -28,7 +28,7 @@
 
 - [HTML5/CSS3 Website](https://lujianna.github.io/acme-web-design/)
 - [Our group bio in git branches](https://lujianna.github.io/code/)
-- [HTML5/CSS3 group page- 1 person](https://lujianna.github.io/codeit/)
+- [HTML5/CSS3 group page- Anna](https://lujianna.github.io/codeit/)
 
 #### Week 2
 
