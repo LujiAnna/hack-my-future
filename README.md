@@ -1,6 +1,6 @@
 # [Hack My Future](https://home.hackyourfuture.be/curriculum)
 
-> A repository to organize my studying notes and study board.
+> A repository to organize my studying notes [modules](https://hackyourfuture.be/class-9-10/) in [class 9-10 at HYF](https://github.com/LujiAnna/class-9-10) and study board.
 > Table of contents for all of the exercises and projects you push to GitHub. 
 > Keeping a tidy, organized list of all my work will be helpful for review and a good starting point for my [portfolio](https://github.com/LujiAnna/LujiAnna.github.io).
 > [GitHub is your resume!](https://anti-pattern.com/github-is-your-resume-now), [another article](http://blog.gainlo.co/index.php/2015/11/13/how-to-make-github-as-your-new-resume/)
@@ -14,33 +14,29 @@
 
 ---
 
-## All of My Projects
+## Projects
 
 ### [Working with Code](https://home.hackyourfuture.be/curriculum/precourse)
 
 - [Markdown Home Page](https://lujianna.github.io)
 - [My bio on the class repo](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/LujiAnna.md)
-- [Markdown group page](https://lujianna.github.io/group-intro/)
 
 ### [Incremental Development](https://github.com/LujiAnna/incremental-development)
 
 #### Week 1
 
 - [HTML5/CSS3 Website](https://lujianna.github.io/acme-web-design/)
-- [Our group bio in git branches](https://lujianna.github.io/code/)
 - [HTML5/CSS3 group page- Anna](https://lujianna.github.io/codeit/)
 
 #### Week 2
 
 - [HTML5/CSS3/FlexBoxGrid Website](https://lujianna.github.io/app-theme/)
-- [Collaboration](https://lujianna.github.io/team/)
-- [Website collaborative project- Gelila, Anna](https://gelilaa.github.io/team-workflow/)
 
 #### Week 3
 
-- [Website collaborative project- Abdul, Mohammed, Anna](https://aame1.github.io/duck-duck-gone/)
+- [Website using branches- Abdul, Mohammed, Anna](https://aame1.github.io/duck-duck-gone/)
 
-### Debugging
+### [Debugging]()
 
 #### Week 1
 
@@ -48,9 +44,21 @@
 
 #### Week 2
 
-- [prompt-alert-calculate - Pavel, Gelila, Fatih, Anna](https://gelilaa.github.io/prompt-alert-calculate/index.html)
+- [Prompt-alert-calculate - Pavel, Gelila, Fatih, Anna](https://gelilaa.github.io/prompt-alert-calculate/index.html)
 
-### Testing
+### [Testing]()
+
+#### Week 1
+
+- [Array-of-numbers- Yulia, Harun, Anna, Abdul, Galal](https://lujianna.github.io/array-of-numbers/)
+
+#### Week 2
+
+- [Favorite-Words- Yulia, Harun, Anna, Abdul, Galal](https://lujianna.github.io/favorite-words/)
+
+#### Week 3
+
+- [Testing-module-calculator- Yulia, Harun, Anna, Abdul, Galal](https://lujianna.github.io/testing-module-calculator/)
 
 ### Separation of Concerns
 
